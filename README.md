@@ -1,0 +1,2 @@
+# crowdcoin
+Decentralized crowdfunding app
